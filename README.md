@@ -100,7 +100,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namit30&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-> Note: Some of my most used languages may not appear in the stats above due to the nature of my repositories and the files within them.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=namit30&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
