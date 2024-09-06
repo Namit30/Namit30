@@ -109,6 +109,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=namit30&theme=dark" alt="GitHub Streak" />
 </p>
 
+## 📕 Checkout my Repos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Namit30&repo=InvoiceTextDetect&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Namit30/InvoiceTextDetect)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Namit30&repo=SortTrace&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Namit30/SortTrace)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Namit30&repo=Project-MediScan&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Namit30/Project-MediScan)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Namit30&repo=project1-NewsPortal&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Namit30/project1-NewsPortal)
+
 
 <!--
 **Namit30/Namit30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
