@@ -121,6 +121,13 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Namit30&repo=project1-NewsPortal&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Namit30/project1-NewsPortal)
 
 
+
+<p align="center">
+    Made with ❤️ by <a href="https://github.com/Namit30">Namit Mehrotra</a>
+</p>
+
+
+
 <!--
 **Namit30/Namit30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
