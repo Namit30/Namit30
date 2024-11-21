@@ -15,6 +15,7 @@
 ---
 
 ### 💬 About Me
+-I am Namit Mehrotra, a 4th-year Computer Science student at VIT Vellore, passionate about solving real-world problems through technology. My expertise lies in frontend development, machine learning, and data science, with hands-on experience building responsive web applications, AI models, and innovative software solutions. I thrive on learning new technologies, contributing to open-source projects, and creating impactful tools that make a difference.
 - Ask me about **Vue, C/C++, Python, or front-end development**.
 - 📫 How to reach me: **namit752@gmail.com**
 - 🌱 I’m currently learning Frontend technologies.
