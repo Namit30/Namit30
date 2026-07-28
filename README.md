@@ -1,145 +1,52 @@
-[![Banner](https://i.postimg.cc/1zdtZSpY/White-Minimalist-Profile-Linked-In-Banner.png)](https://postimg.cc/yJFBFwpF)
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Namit30/Namit30/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Namit30/Namit30/main/light.svg">
+  <img alt="Namit Mehrotra — Integration Engineer @ ClearTax" src="https://raw.githubusercontent.com/Namit30/Namit30/main/light.svg">
+</picture>
 
-<h1 align="center">Hi 👋, I'm Namit Mehrotra</h1>
-<h3 align="center">A passionate front-end developer with a strong enthusiasm for data science💻 and AI/ML.</h3>
+<!-- ===== PROFILE VIEWS ===== -->
 
-<p align="center">
-  <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=namit30&label=Profile%20views&color=0e75b6&style=flat" alt="namit30" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=namit30&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" alt="Profile views" />
 
----
+</div>
 
-### 💬 About Me
- - I am Namit Mehrotra, a 4th-year Computer Science student at VIT Vellore, passionate about solving real-world problems through technology. My expertise lies in frontend development, machine learning, and data science, with hands-on experience building responsive web applications, AI models, and innovative software solutions. I thrive on learning new technologies, contributing to open-source projects, and creating impactful tools that make a difference.
-- Ask me about **Vue, C/C++, Python, or front-end development**.
-- 📫 How to reach me: **namit752@gmail.com**
-- 🌱 I’m currently learning Frontend technologies.
-- 🎧 In my free time I like to code, listen to music.
-- 💬 Ask me about Vue,C/C++,python or frontend development.
----
+<!-- ===== GITHUB STATS ===== -->
 
-### 🌐 Connect with Me:
-  <a href="https://linkedin.com/in/namit0730" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namit0730" height="30" width="40" /></a>
-  <a href="https://instagram.com/namit.mehrotra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="namit.mehrotra" height="30" width="40" /></a>
-</p>
+<div align="center">
 
----
+<!-- Streak — full width -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Namit30&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Namit30&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Namit's contribution streak" />
+</picture>
 
-### 🛠️ Languages and Tools:
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> 
-  </a> 
-</p>
+<!-- STATS-CARDS-PLACEHOLDER: stats + top-langs cards land here once the self-hosted github-readme-stats instance is deployed -->
 
----
+</div>
 
-### 📊 GitHub Stats:
+<!-- ===== CONTRIBUTION SNAKE (added after the Action's first green run) ===== -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namit30&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+<!-- ===== SOCIAL BADGES ===== -->
+<br/>
+<div align="center">
 
+<a href="https://www.linkedin.com/in/namit0730/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:namit752@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Namit30">
+  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0A101F" alt="GitHub" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namit30&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
+</div>
 
-<p align="center">
-<!--   <img src="https://streak-stats.demolab.com?user=Namit30&theme=dark" alt="GitHub Streak" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Namit30&theme=dark" alt="GitHub Streak" />
-  
-</p>
-
-## 📕 Checkout my Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Namit30&repo=InvoiceTextDetect&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Namit30/InvoiceTextDetect)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Namit30&repo=SortTrace&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Namit30/SortTrace)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Namit30&repo=Project-MediScan&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Namit30/Project-MediScan)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Namit30&repo=project1-NewsPortal&bg_color=0,000000,130F40&text_color=A1A1A1)](https://github.com/Namit30/project1-NewsPortal)
-
-
-
-<p align="center">
-    Made with ❤️ by <a href="https://github.com/Namit30">Namit Mehrotra</a>
-</p>
-
-
-
-<!--
-**Namit30/Namit30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-JUST A COMMIT
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ===== END ===== -->
