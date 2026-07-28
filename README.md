@@ -29,7 +29,17 @@
 
 </div>
 
-<!-- ===== CONTRIBUTION SNAKE (added after the Action's first green run) ===== -->
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Namit30/Namit30/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Namit30/Namit30/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Namit30/Namit30/output/github-snake.svg" />
+</picture>
+
+</div>
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
