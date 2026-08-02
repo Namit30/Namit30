@@ -12,8 +12,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&center=true&vCenter=true&width=820&height=50&color=22D3EE&background=00000000&lines=%E2%9A%A1+Data+Engineer+%40+ClearTax;%F0%9F%94%A7+Pipeline+Architect+%E2%80%A2+DBT+Specialist;%F0%9F%93%8A+Turning+messy+data+into+clean%2C+actionable+insights;%F0%9F%9A%80+SQL+%E2%80%A2+Python+%E2%80%A2+DBT+%E2%80%A2+SAP+HANA+%E2%80%A2+Databricks" />
-  <img alt="Data Engineer @ ClearTax — Pipeline Architect, DBT Specialist" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&center=true&vCenter=true&width=820&height=50&color=0891B2&background=00000000&lines=%E2%9A%A1+Data+Engineer+%40+ClearTax;%F0%9F%94%A7+Pipeline+Architect+%E2%80%A2+DBT+Specialist;%F0%9F%93%8A+Turning+messy+data+into+clean%2C+actionable+insights;%F0%9F%9A%80+SQL+%E2%80%A2+Python+%E2%80%A2+DBT+%E2%80%A2+SAP+HANA+%E2%80%A2+Databricks" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&center=true&vCenter=true&width=820&height=50&color=22D3EE&background=00000000&lines=%E2%9A%A1+Data+Integration+Engineer+%40+ClearTax;%F0%9F%94%A7+Pipeline+Architect+%E2%80%A2+DBT+Specialist;%F0%9F%93%8A+Turning+messy+data+into+clean%2C+actionable+insights;%F0%9F%9A%80+SQL+%E2%80%A2+Python+%E2%80%A2+DBT+%E2%80%A2+SAP+HANA+%E2%80%A2+Databricks" />
+  <img alt="Data Integration Engineer @ ClearTax — Pipeline Architect, DBT Specialist" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&center=true&vCenter=true&width=820&height=50&color=0891B2&background=00000000&lines=%E2%9A%A1+Data+Integration+Engineer+%40+ClearTax;%F0%9F%94%A7+Pipeline+Architect+%E2%80%A2+DBT+Specialist;%F0%9F%93%8A+Turning+messy+data+into+clean%2C+actionable+insights;%F0%9F%9A%80+SQL+%E2%80%A2+Python+%E2%80%A2+DBT+%E2%80%A2+SAP+HANA+%E2%80%A2+Databricks" />
 </picture>
 
 </div>
